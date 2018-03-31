@@ -107,4 +107,4 @@ venv.bak/
 /data
 /mongodb.log*
 /python.log*
-/sensitive_config.py
+/src/sensitive_config.py
