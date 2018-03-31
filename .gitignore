@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 
-/token
 /data
 /mongodb.log*
 /python.log*
+/sensitive_config.py
