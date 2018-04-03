@@ -108,3 +108,5 @@ venv.bak/
 /mongodb.log*
 /python.log*
 /src/sensitive_config.py
+
+.idea/
